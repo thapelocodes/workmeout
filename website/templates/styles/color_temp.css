@@ -1,0 +1,22 @@
+body {background: #555}
+.header {
+    padding: 10px;
+    background: #000085;
+    text-align: center;
+    color: lightblue;
+    border-top-right-radius: 250px;
+    border-bottom-left-radius: 250px;
+    border-bottom-right-radius: 30px;
+    border-top-left-radius: 30px;
+}
+
+.footer {
+    position: fixed;
+    bottom:0;
+    left:0;
+    width:100%;
+    padding: 3px;
+    text-align: center;
+    color: lightblue;
+    background-color: #000085;
+}
